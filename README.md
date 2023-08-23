@@ -1,4 +1,4 @@
-# READ ME
+# README
 
 Projects and Exercises from the course The Complete Web Development Bootcamp by Angela Yu.
 
